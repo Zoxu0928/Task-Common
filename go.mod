@@ -1,3 +1,3 @@
-module github.com/Zoxu/task-common
+module github.com/Zoxu0928/task-common
 
 go 1.16
